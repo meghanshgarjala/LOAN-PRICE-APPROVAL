@@ -48,7 +48,9 @@ Here are some screenshots of the project:
 ![1](2.png)
 ![2](1.png)
 
+### Best Models
 
+![3](3.png)
 
 ### Conclusion
-The Loan Approval Prediction App is a practical demonstration of applying machine learning to real-world problems. It empowers users with the knowledge to understand their loan eligibility and makes the application process more efficient.
+The Loan Approval Prediction App is a practical demonstration of applying machine learning to real-world problems. It empowers users with the knowledge to understand their loan eligibility and makes the application process more efficient.AdaBoost Classifier gives the best accuracy among all the other classification algorithms.
