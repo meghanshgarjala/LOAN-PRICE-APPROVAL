@@ -45,8 +45,8 @@ To run this application locally, follow these steps:
 ### Screenshots
 Here are some screenshots of the project:
 
-![1](Project Screenshots\1.png)
-![2](Project Screenshots\2.png)
+![1](2.png)
+![2](1.png)
 
 
 
